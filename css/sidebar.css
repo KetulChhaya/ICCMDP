@@ -1,0 +1,123 @@
+.sideMenu {
+    position: fixed;
+    top: 50%;
+    left: 0%;
+    display: flex;
+    align-items: center;
+    transform: translateY(-50%);
+    z-index: 9999;
+}
+
+.sideMenu .sideBar{
+    width: 4px;
+    height: 418px;
+    background: var(--black-shade);
+    border-radius: 15px;
+}
+
+.sideMenu .sideBar.top {
+    background: var(--white-shade);
+}
+
+.sideMenu .sideBar.footer {
+    animation: sideBarAnim 1.5s forwards;
+}
+
+.sideMenu .icon-grp-div {
+    display: flex;
+    flex-direction: column;
+    /* padding-left: 10px; */
+    transform: translateX(-100px);
+    animation: sidebarAnime 0.7s forwards;
+    opacity: 0;
+}
+
+@keyframes sidebarAnime {
+    from {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.sideMenu .icon-div {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.sideMenu .icon-div svg {
+    width: 30px;
+    height: 30px;
+    fill: var(--black-shade);
+    color: var(--black-shade);
+}
+
+.sideMenu .icon-grp-div.top svg {
+    fill: var(--white-shade);
+    color: var(--white-shade);
+}
+
+.sideMenu .icon-grp-div.footer {
+    animation: sideBarAnim 1.5s forwards;
+}
+
+/* .sideMenu.footer {
+    animation: sideBarAnim 1s forwards;
+} */
+
+@keyframes sideBarAnim {
+    from {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    to {
+        transform: translateX(-100px);
+        opacity: 0;
+    }
+}
+
+.sideMenu a {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    padding: 13px 10px;
+    padding-left: 15px;
+    color: var(--black-shade);
+}
+
+/* Hover Icon Name */
+.sideMenu a:hover .iconName, .sideMenu a:focus .iconName {
+    display: block;
+}
+
+.iconName {
+    display: none;
+    padding-left: 15px;
+    margin-top: 7px;
+    animation: iconAnime 0.7s;
+}
+
+@keyframes iconAnime {
+    from {
+        transform: translateX(-60px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.sideMenu .iconName.top {
+    color: var(--white-shade);
+}
+
+@media screen and (max-width: 820px) {
+    .sideMenu {
+        display: none;
+    }
+}

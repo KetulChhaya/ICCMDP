@@ -1,0 +1,279 @@
+{
+    "members" : [
+        {
+            "international" : [
+                {
+                    "id": "0",
+                    "name": "Prof. Krzysztof J. Kurzydłowski",
+                    "affiliation": "Warsaw University of Technology, Poland"
+                },
+                {
+                    "id": "1",
+                    "name": "Dr. Piotr Śpiewak",
+                    "affiliation": "Warsaw University of Technology, Poland"
+                },
+                {
+                    "id": "2",
+                    "name": "Prof. Rajeev Ahuja",
+                    "affiliation": "Uppsala University, Sweden"   
+                },
+                {
+                    "id": "3",
+                    "name": "Dr. Alessandro Fortunelli",
+                    "affiliation": "ICCOM, Italy"                    
+                },
+                {
+                    "id": "4",
+                    "name": "Dr. Xihong Peng, Ph.D.",
+                    "affiliation": "Arizona State University, USA"   
+                },
+                {
+                    "id": "5",
+                    "name": "Prof. M. P. Anantram",
+                    "affiliation": "University of Washington"   
+                },
+                {
+                    "id": "6",
+                    "name": "Prof. Mohd Basyaruddin Abdul Rahman",
+                    "affiliation": "University Putra Malaysia, MALAYSIA"
+                    
+                },
+                {
+                    "id": "7",
+                    "name": "Prof. Rabah Khetana",
+                    "affiliation": "Mascara University, Algeria"
+                    
+                },
+                {
+                    "id": "8",
+                    "name": "Prof. Ravindra Pandey",
+                    "affiliation": "Michigan Technological University, USA"
+
+                },
+                {
+                    "id": "9",
+                    "name": "T. Pradeep",
+                    "affiliation": "IIT, Madras"
+                },
+                {
+                    "id": "10",
+                    "name": "Prof. Yogendra Kumar Mishra",
+                    "affiliation": "University of Southern Denmark, Denmark"
+                },
+                {
+                    "id": "11",
+                    "name": "Prof. Hiromichi Ohta",
+                    "affiliation": "Hokkaido University, Japan"
+                },
+                {
+                    "id": "12",
+                    "name": "Prof. Dinesh Agrawal",
+                    "affiliation": "Penn State University, USA"
+                },
+                {
+                    "id": "13",
+                    "name": "Prof. Ichiro Terasaki",
+                    "affiliation": "Nagoya University, Japan"
+                },
+                {
+                    "id": "14",
+                    "name": "Dr Roberto D’Agosta",
+                    "affiliation": "Spain"
+                },
+                {
+                    "id": "15",
+                    "name": "Prof. D. G. Kanhere",
+                    "affiliation": ""
+                },
+                {
+                    "id": "16",
+                    "name": "Prof. Sanjay Puri",
+                    "affiliation": "JNU, New Delhi"
+                },
+                {
+                    "id": "17",
+                    "name": "Dr. V N Mani",
+                    "affiliation": ""
+                },
+                {
+                    "id": "18",
+                    "name": "Kannan Srinivasan",
+                    "affiliation": "CSMCRI, Director"
+                },
+                {
+                    "id": "19",
+                    "name": "Prof. A K Roychaudhary",
+                    "affiliation": "S N Bose "
+                },
+                {
+                    "id": "20",
+                    "name": "Dr A. K. Tyagi",
+                    "affiliation": "BRNS, BARC"
+                }
+            ]
+        },
+        {
+            "national" : [
+                {
+                    "id": "0",
+                    "name": "Dr. Ram Janay Choudhary",
+                    "affiliation":"Scientist-E Indore, India"
+                },
+                {
+                    "id": "1",
+                    "name": "Dr. Brahmananda Chakraborty",
+                    "affiliation": "BARC, Mumbai India"
+                },
+                {
+                    "id": "2",
+                    "name": "Dr. Narottam Sahoo",
+                    "affiliation": "GUJCOST"
+                },
+                {
+                    "id": "3",
+                    "name": "Prof. Nandu Chaure",
+                    "affiliation": "Pune University"
+                },
+                {
+                    "id": "4",
+                    "name": "Dr. Ravi Kumar",
+                    "affiliation": "NIT, Hamirpur"
+                },
+                {
+                    "id": "5",
+                    "name": "Prof. P.K.Jha",
+                    "affiliation": "MSU, Baroda"
+                },
+                {
+                    "id": "6",
+                    "name": "Prof. Mihir Joshi",
+                    "affiliation": "Saurashtra University"
+                },
+                {
+                    "id": "7",
+                    "name": "Prof. Asim Bhaumik",
+                    "affiliation": "IACS, Kolkota"
+                },
+                {
+                    "id": "8",
+                    "name": "Prof. C v Tomy",
+                    "affiliation": "IIT, Bombay"
+                },
+                {
+                    "id": "9",
+                    "name": "Dr. Mohit Tyagi",
+                    "affiliation": "BARC"
+                },
+                {
+                    "id": "10",
+                    "name": "Dr. Emila Panda",
+                    "affiliation": "IIT, Gandhinagar"
+                },
+                {
+                    "id": "11",
+                    "name": "Dr. Umesh K. Dwivedi",
+                    "affiliation": "Amity University, Rajasthan"
+                },
+                {
+                    "id": "12",
+                    "name": "Prof. Pawan Kumar ",
+                    "affiliation": "NIT, Raourkela"
+                },
+                {
+                    "id": "13",
+                    "name": "vaibhav Kushreshta ",
+                    "affiliation": "CSMCRI"
+                },
+                {
+                    "id": "14",
+                    "name": "Prof. Niraj Khare,",
+                    "affiliation": "IIT, Delhi"
+                },
+                {
+                    "id": "15",
+                    "name": "D G Kuberkar",
+                    "affiliation": "Saurashtra University"
+                }
+            ]
+        },
+        {
+            "local" : [
+                {
+                    "id": "0",
+                    "name": "Prof. S Sundar Manoharan" ,
+                    "institute": ""
+                },
+                {
+                    "id": "1",
+                    "name": "Prof. Sunil Khanna" ,
+                    "institute": ""
+                },
+                {
+                    "id": "2",
+                    "name": "Prof. Rajib Bandyopadhyay" ,
+                    "institute": ""
+                },
+                {
+                    "id": "3",
+                    "name": "Dr. Satyam Shinde" ,
+                    "institute": ""
+                },
+                {
+                    "id": "4",
+                    "name": "Dr. Rohit Srivastava" ,
+                    "institute": ""
+                },
+                {
+                    "id": "5",
+                    "name": "Dr. Bharat Parekh" ,
+                    "institute": ""
+                },
+                {
+                    "id": "6",
+                    "name": "Dr. Brijesh Tripathi" ,
+                    "institute": ""
+                },
+                {
+                    "id": "7",
+                    "name": "Dr. Manojkumar Kaushik" ,
+                    "institute": ""
+                },
+                {
+                    "id": "8",
+                    "name": "Dr. Balamurali Mayya" ,
+                    "institute": ""
+                },
+                {
+                    "id": "9",
+                    "name": "Dr. Prahlad Barua" ,
+                    "institute": ""
+                },
+                {
+                    "id": "10",
+                    "name": "Dr. Sheetal Rawat" ,
+                    "institute": ""
+                },
+                {
+                    "id": "11",
+                    "name": "Dr. Ankur Solanki" ,
+                    "institute": ""
+                },
+                {
+                    "id": "12",
+                    "name": "Dr. Anup Sanchela" ,
+                    "institute": ""
+                },
+                {
+                    "id": "13",
+                    "name": "Dr. Nishant Doshi" ,
+                    "institute": ""
+                },
+                {
+                    "id": "14",
+                    "name": "Mr. Abhishek Gor" ,
+                    "institute": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Calender-container {
+    position: relative;
+    background-color: transparent;
+    height: 120px;
+    width: 120px;
+    margin: 28px;
+}
+
+.Calender-container img {
+    height: 100%;
+    display: block;
+}
+
+.Calender-container .days {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color: #2fb3a5;
+    text-transform: uppercase;
+    transform: translate(-48%,-36%);
+}
+
+.Calender-container .days > * {
+  margin: 5px 0;
+}
+
+@media screen and (max-width: 820px) {
+    .Calender-container {
+       height: 80px;
+       width: 80px;
+       margin: 22px; 
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .Calender-container {
+        height: 72px;
+        width: 72px;
+        margin: 1%;
+    }
+
+    .days h1 {
+        font-size: 20px !important;
+    }
+    
+    .days h5 {
+        font-size: 12px !important;
+    }
+}

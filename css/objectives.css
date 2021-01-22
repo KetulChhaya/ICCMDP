@@ -1,0 +1,10 @@
+.section-info svg {
+    font-size: 10px;
+    padding: 6px;
+    padding-right: 25px;
+    color: var(--blue-shade);
+}
+
+.section-info .flex-layout {
+    padding: 15px 0px;
+}

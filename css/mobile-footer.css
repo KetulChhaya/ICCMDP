@@ -1,0 +1,63 @@
+@media screen and (max-width: 699px) {
+    .logo-con {
+        margin-top: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pdpu-logo {
+        margin: 0px;
+    }
+
+    .encode {
+        text-align: center;
+    }
+
+    /* .footer-content-con {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer-content-wrapper {
+        width: 100%;
+        align-self: center;
+        margin-top: 20px;
+    } */
+
+    .footer-two-wrappers {
+        flex-direction: column;
+        /* border: 1px solid; */
+        /* border: 2px solid yellow; */
+        /* text-align: center; */
+    }
+
+    .footer-content-wrapper {
+        align-items: flex-start;
+        padding: 0 20px;
+        /* border: 1px solid red; */
+        width: 260px;
+        align-self: center;
+    }
+
+    .footer-content-header {
+        text-align: left;
+        /* border: 1px solid blue; */
+    }
+
+    .footer-content-info {
+        align-items: flex-start;
+        /* border: 1px solid yellow; */
+    }
+
+    /* .footer-content-con {
+        text-align: center ;
+    } */
+
+    .iccmdp-text {
+        max-width: 390px;
+        width: 100%;
+    }
+}
